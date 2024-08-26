@@ -28,3 +28,5 @@ Defect Management: Log, track, and manage defects discovered during testing, wor
 
 Reporting: Generate test summary reports, detailing the results of ETL testing and highlighting any issues or areas for improvement.
 
+# 🌐 Socials
+1.[LinkedIn](https://www.linkedin.com/in/lingeshwaran2001)
