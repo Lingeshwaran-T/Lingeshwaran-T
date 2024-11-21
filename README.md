@@ -34,4 +34,4 @@ If you'd like to explore the skills and knowledge I've gathered on this journey,
 1.[LinkedIn](https://www.linkedin.com/in/lingeshwaran2001)
 
 ### 💻 Tech Stack
-<img width="50" height="50" src="https://img.icons8.com/fluency/50/mysql-logo.png" alt="mysql-logo"/>  <img width="50" height="50" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>  <img width="50" height="50" src="https://img.icons8.com/water-color/50/snowflake.png" alt="snowflake"/> <img width="50" height="50" src="https://img.icons8.com/fluency/50/azure-1.png" alt="azure-1"/>  
+<img width="50" height="50" src="https://img.icons8.com/fluency/50/mysql-logo.png" alt="mysql-logo"/>  <img width="50" height="50" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>  <img width="50" height="50" src="https://img.icons8.com/water-color/50/snowflake.png" alt="snowflake"/> <img width="50" height="50" src="https://img.icons8.com/fluency/50/azure-1.png" alt="azure-1"/>  <img width="50" height="50" src="https://img.icons8.com/fluency/48/power-bi-2021.png" alt="power-bi-2021"/>
